@@ -1,0 +1,14 @@
+.OI{
+    background-color: black;
+    color: red;
+    padding: 80px;
+    text-align: center;
+    border-radius: 4px;
+}
+.oi{
+    text-align: center;
+}
+input{ 
+    background-color: black;
+    color: red;
+}
